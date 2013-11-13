@@ -1,0 +1,472 @@
+{
+  "timeline": {
+    "headline": "Nov",
+    "type": "default",
+    "text": "Breifing",
+    "startDate": "2013,11,1",
+    "date": [
+      {
+        "startDate": "2013,11,01",
+        "endDate": "2013,11,01",
+        "headline": "ISM Index",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/napm.htm"
+      },
+      {
+        "startDate": "2013,11,01",
+        "endDate": "2013,11,01",
+        "headline": "Auto Sales",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/auto.htm"
+      },
+      {
+        "startDate": "2013,11,01",
+        "endDate": "2013,11,01",
+        "headline": "Truck Sales",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/auto.htm"
+      },
+      {
+        "startDate": "2013,11,04",
+        "endDate": "2013,11,04",
+        "headline": "Factory Orders",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/facord.htm"
+      },
+      {
+        "startDate": "2013,11,04",
+        "endDate": "2013,11,04",
+        "headline": "Factory Orders",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/facord.htm"
+      },
+      {
+        "startDate": "2013,11,05",
+        "endDate": "2013,11,05",
+        "headline": "ISM Services",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/napmserv.htm"
+      },
+      {
+        "startDate": "2013,11,06",
+        "endDate": "2013,11,06",
+        "headline": "MBA Mortgage Index",
+        "text": "MBA Mortgage Index"
+      },
+      {
+        "startDate": "2013,11,06",
+        "endDate": "2013,11,06",
+        "headline": "Challenger Job Cuts",
+        "text": "Challenger Job Cuts"
+      },
+      {
+        "startDate": "2013,11,06",
+        "endDate": "2013,11,06",
+        "headline": "Leading Indicators",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/leader.htm"
+      },
+      {
+        "startDate": "2013,11,06",
+        "endDate": "2013,11,06",
+        "headline": "Crude Inventories",
+        "text": "Crude Inventories"
+      },
+      {
+        "startDate": "2013,11,07",
+        "endDate": "2013,11,07",
+        "headline": "Initial Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,07",
+        "endDate": "2013,11,07",
+        "headline": "Continuing Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,07",
+        "endDate": "2013,11,07",
+        "headline": "GDP-Adv.",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/gdp.htm"
+      },
+      {
+        "startDate": "2013,11,07",
+        "endDate": "2013,11,07",
+        "headline": "Chain Deflator-Adv.",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/gdp.htm"
+      },
+      {
+        "startDate": "2013,11,07",
+        "endDate": "2013,11,07",
+        "headline": "Natural Gas Inventories",
+        "text": "Natural Gas Inventories"
+      },
+      {
+        "startDate": "2013,11,07",
+        "endDate": "2013,11,07",
+        "headline": "Consumer Credit",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/credit.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Nonfarm Payrolls",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/employ.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Nonfarm Private Payrolls",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/employ.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Unemployment Rate",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/employ.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Hourly Earnings",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/employ.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Average Workweek",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/employ.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Personal Income",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/income.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Personal Spending",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/income.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "PCE Prices - Core",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/income.htm"
+      },
+      {
+        "startDate": "2013,11,08",
+        "endDate": "2013,11,08",
+        "headline": "Mich Sentiment",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/mich.htm"
+      },
+      {
+        "startDate": "2013,11,13",
+        "endDate": "2013,11,13",
+        "headline": "MBA Mortgage Index",
+        "text": "MBA Mortgage Index"
+      },
+      {
+        "startDate": "2013,11,13",
+        "endDate": "2013,11,13",
+        "headline": "Export Prices ex-ag.",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/emp.htm"
+      },
+      {
+        "startDate": "2013,11,13",
+        "endDate": "2013,11,13",
+        "headline": "Import Prices ex-oil",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/emp.htm"
+      },
+      {
+        "startDate": "2013,11,13",
+        "endDate": "2013,11,13",
+        "headline": "Treasury Budget",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/budget.htm"
+      },
+      {
+        "startDate": "2013,11,14",
+        "endDate": "2013,11,14",
+        "headline": "Initial Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,14",
+        "endDate": "2013,11,14",
+        "headline": "Continuing Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,14",
+        "endDate": "2013,11,14",
+        "headline": "Trade Balance",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/trade.htm"
+      },
+      {
+        "startDate": "2013,11,14",
+        "endDate": "2013,11,14",
+        "headline": "Productivity-Prel",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/prod.htm"
+      },
+      {
+        "startDate": "2013,11,14",
+        "endDate": "2013,11,14",
+        "headline": "Unit Labor Costs",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/prod.htm"
+      },
+      {
+        "startDate": "2013,11,14",
+        "endDate": "2013,11,14",
+        "headline": "Natural Gas Inventories",
+        "text": "Natural Gas Inventories"
+      },
+      {
+        "startDate": "2013,11,14",
+        "endDate": "2013,11,14",
+        "headline": "Crude Inventories",
+        "text": "Crude Inventories"
+      },
+      {
+        "startDate": "2013,11,15",
+        "endDate": "2013,11,15",
+        "headline": "Empire Manufacturing",
+        "text": "Empire Manufacturing"
+      },
+      {
+        "startDate": "2013,11,15",
+        "endDate": "2013,11,15",
+        "headline": "Industrial Production",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/indprd.htm"
+      },
+      {
+        "startDate": "2013,11,15",
+        "endDate": "2013,11,15",
+        "headline": "Capacity Utilization",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/indprd.htm"
+      },
+      {
+        "startDate": "2013,11,15",
+        "endDate": "2013,11,15",
+        "headline": "Wholesale Inventories",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/whlsls.htm"
+      },
+      {
+        "startDate": "2013,11,18",
+        "endDate": "2013,11,18",
+        "headline": "Net Long-Term TIC Flows",
+        "text": "Net Long-Term TIC Flows"
+      },
+      {
+        "startDate": "2013,11,18",
+        "endDate": "2013,11,18",
+        "headline": "NAHB Housing Market Index",
+        "text": "NAHB Housing Market Index"
+      },
+      {
+        "startDate": "2013,11,19",
+        "endDate": "2013,11,19",
+        "headline": "Employment Cost Index",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/eci.htm"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "MBA Mortgage Index",
+        "text": "MBA Mortgage Index"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "Retail Sales",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/retail.htm"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "Retail Sales ex-auto",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/retail.htm"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "CPI",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/cpi.htm"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "Core CPI",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/cpi.htm"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "Existing Home Sales",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/exist.htm"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "Business Inventories",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/businv.htm"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "Crude Inventories",
+        "text": "Crude Inventories"
+      },
+      {
+        "startDate": "2013,11,20",
+        "endDate": "2013,11,20",
+        "headline": "FOMC Minutes",
+        "text": "FOMC Minutes"
+      },
+      {
+        "startDate": "2013,11,21",
+        "endDate": "2013,11,21",
+        "headline": "Initial Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,21",
+        "endDate": "2013,11,21",
+        "headline": "Continuing Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,21",
+        "endDate": "2013,11,21",
+        "headline": "PPI",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/ppi.htm"
+      },
+      {
+        "startDate": "2013,11,21",
+        "endDate": "2013,11,21",
+        "headline": "Core PPI",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/ppi.htm"
+      },
+      {
+        "startDate": "2013,11,21",
+        "endDate": "2013,11,21",
+        "headline": "Philadelphia Fed",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/phil.htm"
+      },
+      {
+        "startDate": "2013,11,21",
+        "endDate": "2013,11,21",
+        "headline": "Leading Indicators",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/leader.htm"
+      },
+      {
+        "startDate": "2013,11,21",
+        "endDate": "2013,11,21",
+        "headline": "Natural Gas Inventories",
+        "text": "Natural Gas Inventories"
+      },
+      {
+        "startDate": "2013,11,22",
+        "endDate": "2013,11,22",
+        "headline": "JOLTS - Job Openings",
+        "text": "JOLTS - Job Openings"
+      },
+      {
+        "startDate": "2013,11,25",
+        "endDate": "2013,11,25",
+        "headline": "Pending Home Sales",
+        "text": "Pending Home Sales"
+      },
+      {
+        "startDate": "2013,11,26",
+        "endDate": "2013,11,26",
+        "headline": "Housing Starts",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/starts.htm"
+      },
+      {
+        "startDate": "2013,11,26",
+        "endDate": "2013,11,26",
+        "headline": "Housing Starts",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/starts.htm"
+      },
+      {
+        "startDate": "2013,11,26",
+        "endDate": "2013,11,26",
+        "headline": "Building Permits",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/starts.htm"
+      },
+      {
+        "startDate": "2013,11,26",
+        "endDate": "2013,11,26",
+        "headline": "Building Permits",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/starts.htm"
+      },
+      {
+        "startDate": "2013,11,26",
+        "endDate": "2013,11,26",
+        "headline": "Case-Shiller 20-city Index",
+        "text": "Case-Shiller 20-city Index"
+      },
+      {
+        "startDate": "2013,11,26",
+        "endDate": "2013,11,26",
+        "headline": "FHFA Housing Price Index",
+        "text": "FHFA Housing Price Index"
+      },
+      {
+        "startDate": "2013,11,26",
+        "endDate": "2013,11,26",
+        "headline": "Consumer Confidence",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/conf.htm"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "MBA Mortgage Index",
+        "text": "MBA Mortgage Index"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Initial Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Continuing Claims",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/claims.htm"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Durable Orders",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/durord.htm"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Durable Goods –ex transportation",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/durord.htm"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Chicago PMI",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/chi.htm"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Michigan Sentiment - Final",
+        "text": "http://www.briefing.com/Investor/Calendars/Economic/Releases/mich.htm"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Crude Inventories",
+        "text": "Crude Inventories"
+      },
+      {
+        "startDate": "2013,11,27",
+        "endDate": "2013,11,27",
+        "headline": "Natural Gas Inventories",
+        "text": "Natural Gas Inventories"
+      }
+    ]
+  }
+}
