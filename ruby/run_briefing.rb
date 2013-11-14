@@ -20,7 +20,7 @@ def get_obj(tds)
   a = tds[2].search('a').first
   { :startDate => day_string,
     :endDate => day_string,
-    :headline => tds[2].content,
+    :headline => tds[2].content + " at " + tds[1].content,
     :text => a.nil? ? tds[2].content : HOST + a['href']
   }
 end
